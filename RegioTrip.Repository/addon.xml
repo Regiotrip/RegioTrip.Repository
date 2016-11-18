@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="RegioTrip.Repository" name="Repositorio RegioTrip" version="0.0.2" provider-name="Regiotrip">
+	<extension point="xbmc.addon.repository" name="RegioTrip">
+		<info compressed="false">http://raw.github.com/RegioTrip/RegioTrip.Repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/RegioTrip/RegioTrip.Repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/RegioTrip/RegioTrip.Repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repositorio RegioTrip</summary>
+		<description>Repositorio de Addon</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
